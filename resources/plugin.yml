@@ -1,0 +1,6 @@
+main: kema.raid.Main
+name: BloodMoon
+version: 1.0.0
+description: 'By the way, do u know blood moon ?'
+author: kemq_
+api-version: 1.13
